@@ -1,5 +1,5 @@
 # Zend Expressive Sentry
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 This is a quick addon for Zend Expressive to allow it to report it's errors to Sentry
 
@@ -60,8 +60,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/570639?v=4" width="100px;" alt="Martin Meredith"/><br /><sub><b>Martin Meredith</b></sub>](https://www.sourceguru.net)<br />[💻](https://github.com/Mezzle/zend-expressive-sentry/commits?author=mezzle "Code") [🤔](#ideas-mezzle "Ideas, Planning, & Feedback") [📖](https://github.com/Mezzle/zend-expressive-sentry/commits?author=mezzle "Documentation") |
-| :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/570639?v=4" width="100px;" alt="Martin Meredith"/><br /><sub><b>Martin Meredith</b></sub>](https://www.sourceguru.net)<br />[💻](https://github.com/Mezzle/zend-expressive-sentry/commits?author=mezzle "Code") [🤔](#ideas-mezzle "Ideas, Planning, & Feedback") [📖](https://github.com/Mezzle/zend-expressive-sentry/commits?author=mezzle "Documentation") | [<img src="https://avatars2.githubusercontent.com/u/401928?v=4" width="100px;" alt="Chris Ivens"/><br /><sub><b>Chris Ivens</b></sub>](http://www.joltbox.co.uk)<br /> |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
