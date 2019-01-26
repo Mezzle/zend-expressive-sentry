@@ -1,22 +1,23 @@
 {
-    "name": "stickee/zend-expressive-sentry",
+    "name": "mez/zend-expressive-sentry",
     "description": "Sentry Error Logging for Zend Expressive",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Martin Meredith",
-            "email": "martin.meredith@stickee.co.uk"
+            "email": "martin@sourceguru.net"
         }
     ],
     "require": {
-        "sentry/sentry": "^1.7",
-        "zendframework/zend-stratigility": "^2.0",
-        "zendframework/zend-servicemanager": "^3.3"
+        "php": "^7.1",
+        "sentry/sentry": "^1.10",
+        "zendframework/zend-stratigility": "^3.0",
+        "zendframework/zend-servicemanager": "^3.4"
     },
     "autoload": {
         "psr-4": {
-            "Stickee\\Sentry\\": "src/"
+            "Mez\\Sentry\\": "src/"
         }
     }
 }

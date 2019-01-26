@@ -4,7 +4,7 @@ This is a quick addon for Zend Expressive to allow it to report it's errors to S
 
 ## Configuration instructions
 
-Add the class `\Stickee\Sentry\ConfigProvider` to your main config aggregation
+Add the class `\Mez\Sentry\ConfigProvider` to your main config aggregation
 
 For example:-
 
@@ -22,7 +22,7 @@ $cacheConfig = [
 
 $aggregator = new ConfigAggregator(
     [
-        \Stickee\Sentry\ConfigProvider::class,
+        \Mez\Sentry\ConfigProvider::class,
 
         // Include cache configuration
         new ArrayProvider($cacheConfig),
